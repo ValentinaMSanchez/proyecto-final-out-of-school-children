@@ -4,7 +4,7 @@ Proyecto final del curso *Programación y análisis reproducible con datos*.
 **Autora:** Valentina Merchan Sanchez
 
 ## Pregunta de análisis
-Entre 2000 y 2025, ¿cómo evolucionó el número de niños en edad de primaria fuera de la escuela en las siete regiones del mundo, y se frenó la reducción global después de 2013 mientras el problema se concentraba en África Subsahariana?
+Entre 2000 y 2025, ¿cómo evolucionó el número de niños en edad de primaria fuera de la escuela en las siete regiones del mundo?, y,  ¿se frenó la reducción global después de 2013 mientras el problema se concentraba en África Subsahariana?
 
 ## Datos
 - **Dataset:** Out-of-school children of primary school age (Our World in Data)
