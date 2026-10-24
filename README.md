@@ -35,5 +35,5 @@ Entre 2000 y 2025, ¿cómo evolucionó el número de niños en edad de primaria 
 
 ## Gráficos interactivos
 GitHub no muestra los gráficos de Plotly dentro del notebook. Las versiones interactivas estarán aquí cuando activemos GitHub Pages:
-- [Evolución por región](#)
-- [Participación por región](#)
+- [Evolución por región](https://valentinamsanchez.github.io/proyecto-final-out-of-school-children/figuras/evolucion_por_region.html)
+- [Participación por región](https://valentinamsanchez.github.io/proyecto-final-out-of-school-children/figuras/participacion_por_region.html)
